@@ -1,0 +1,58 @@
+{
+  "user": [
+    {
+      "id": "bengra",
+      "name": "bengra",
+      "password": "Bengra@2023",
+      "email": "ben@b.com",
+      "gender": "male",
+      "role": "user",
+      "isactive": true
+    },
+    {
+      "id": "admin",
+      "name": "admin",
+      "password": "Admin@2024",
+      "email": "a@a.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "user",
+      "name": "user",
+      "password": "User@2024",
+      "email": "u@u.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "flan",
+      "name": "flan",
+      "password": "Flan@2024",
+      "email": "f@f.com",
+      "gender": "male",
+      "role": "prod",
+      "isactive": true
+    }
+  ],
+  "role": [
+    {
+      "id": "admin",
+      "name": "admin"
+    },
+    {
+      "id": "prod",
+      "name": "prod"
+    },
+    {
+      "id": "User",
+      "name": "User"
+    },
+    {
+      "id": "Tester",
+      "name": "Tester"
+    }
+  ]
+}
